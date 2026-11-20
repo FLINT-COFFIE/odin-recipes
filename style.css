@@ -1,0 +1,12 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  padding: 15px;
+  margin: 16px auto;
+  background-color: gold;
+}
+li {
+  font-weight: 600;
+  color: black;
+}
